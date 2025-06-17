@@ -1,8 +1,8 @@
-# Mistral OCR App
+# Mistral OCR+IDR App
 
-The **Mistral OCR App** is a Streamlit-based web application that leverages the [Mistral OCR API](https://docs.mistralai.com/) to extract text from both PDF documents and images. Users can either provide a URL or upload a local file. The app displays the original document (or image) in a preview alongside the extracted OCR results and offers a seamless download option—all without refreshing the page.
+The **Mistral OCR+IDR App** is a Streamlit-based web application that leverages the [Mistral OCR API](https://docs.mistralai.com/) to extract text from both PDF documents and images. Users can either provide a URL or upload a local file. The app displays the original document (or image) in a preview alongside the extracted OCR results and offers a seamless download option—all without refreshing the page.
 
-### 🚀 Try the Mistral OCR App Live!  
+### 🚀 Try the Mistral OCR+IDR App Live!  
 
 🔗 **Live Demo:** [Mistral OCR App](https://mistralocrai.streamlit.app/)  
 
@@ -136,4 +136,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or support, please open an issue in this repository or contact [sonu@aianytime.net].
+For any questions or support, please open an issue in this repository.
