@@ -10,7 +10,7 @@ st.title("Mistral OCR App")
 st.markdown("<h3 style color: white;'>Built by Asaad </a></h3>", unsafe_allow_html=True)
 with st.expander("Expand Me"):
     st.markdown("""
-    This application allows you to extract information from pdf/image based on Mistral OCR. Built by AI Anytime.
+    This application allows you to extract information from pdf/image based on Mistral OCR. 
     """)
 
 # 1. API Key Input
